@@ -1,0 +1,21 @@
+{
+  "title": "jrautomotivo",
+  "description": "Site para uma oficina de automóveis",
+  "demo": " https://guigomes94.github.io/jrautomotivo/ ",
+  "repository": " https://github.com/guigomes94/jrautomotivo ",
+  "course": "cstsi",
+  "session": "2018.2",
+  "subject": "lm",
+  "campus": "João Pessoa",
+  "topics": [
+    "html",
+    "css"
+  ],
+  "owners": [
+    {
+      "id": "20182370007",
+      "name": "Guilherme da Silva Gomes",
+      "github": " https://github.com/guigomes94 " 
+    }
+  ]
+}
